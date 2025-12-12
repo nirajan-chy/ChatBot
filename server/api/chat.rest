@@ -1,0 +1,6 @@
+POST http://localhost:9000/ai/chat
+Content-Type: application/json
+
+{
+  "message": "Explain Occam's Razor in simple words"
+}
